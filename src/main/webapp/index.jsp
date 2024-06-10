@@ -11,5 +11,7 @@
     <img src="./images.jpg" alt="Jenkins" />
 
     <h2>I will try to run this webapp on a Tomcat Server</h2>
+
+    <h3> This line has been added to check the Poll SCM </h3>
   </body>
 </html>
