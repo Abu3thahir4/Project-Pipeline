@@ -10,9 +10,9 @@
     <h1>This Maven Webapp has been created by Abu Thahir</h1>
     <img src="./images.jpg" alt="Jenkins" />
 
-    <h2>I will try to run this webapp on a Tomcat Server</h2>
+    <h2>I will try to run this webapps son a Tomcat Server</h2>
 
     <h3> This line has been added to check the Poll SCM </h3>
-<h1> End of Jenkins Proje </h1>
+<h1> End of Jenkins Project </h1>
   </body>
 </html>
