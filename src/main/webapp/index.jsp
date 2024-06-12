@@ -12,7 +12,7 @@
 
     <h2>I will try to run this webapps son a Tomcat Server</h2>
 
-    <h3> This line has been added to check the Poll SCM </h3>
+    <h3> This line has been added to check the Webhook </h3>
 <h1> End of Jenkins Project </h1>
   </body>
 </html>
